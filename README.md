@@ -1,8 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0e76a8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Matheus+Sales;Sejam+todos+bem+vindos;!+:%29)](https://git.io/typing-svg)
 
+<div align="center">  
+<h1> Olá meu nome é Matheus</h1>
+</div>
 
 <div align="center">
 <h2>Um pouco sobre mim.</h2>
+<p>
+Tenho 23 anos e estou cursando Analise e desenvolvimento de sistemas, atualmente estou procurando minha primeira vaga de emprego
+aqui estao alguns projetos meus feitos em JavaScript e Php e ReactJs espero que gostem e se tiver alguma critica construtiva pode me manda uma mensagem, estou sempre a proucura de evoluir cada vez mais.
+
+
+</p>
 
 <h2>💻 Desenvolvedor Web Front-End</h1>
     <p>Meu portfolio</p>
