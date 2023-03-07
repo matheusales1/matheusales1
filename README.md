@@ -7,7 +7,7 @@
 <h2>Um pouco sobre mim.</h2>
 <p>
 Tenho 23 anos e estou cursando Analise e desenvolvimento de sistemas, atualmente estou procurando minha primeira vaga de emprego
-aqui estao alguns projetos meus feitos em JavaScript e Php e ReactJs espero que gostem e se tiver alguma critica construtiva pode me manda uma mensagem, estou sempre a proucura de evoluir cada vez mais.
+aqui estao alguns projetos meus feitos em JavaScript e Php e ReactJs espero que gostem e se tiver alguma critica construtiva pode me mandar uma mensagem, estou sempre a proucura de evoluir cada vez mais.
 
 
 </p>
