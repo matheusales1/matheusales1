@@ -8,7 +8,7 @@
 
 
 <div align="justify">
-    Estou realizando vários projetos pelo curso da <a href="https://b7web.com.br/" target="_blank">Devmedia</a> onde eu estudo focando no Front-end e estou realizando vários projetos em ReactJs. Aprendendo muito sobre Apis.
+    Estou realizando vários projetos pelo curso da <a href="https://b7web.com.br/" target="_blank">B7Web</a> onde eu estudo focando no Front-end e estou realizando vários projetos em ReactJs. Aprendendo muito sobre Apis, e bibliotecas do javaScript.
     
    Estou cursando Análise e Desenvolvimento de Sistemas pela Unopar.
    </div>
