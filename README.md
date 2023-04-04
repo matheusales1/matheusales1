@@ -15,7 +15,6 @@
    
    - 🚀 Autodidata Complementar - Cursos técnicos nas Plataformas <a href="https://www.estudonauta.com/matricula/?gclid=CjwKCAiAk--dBhABEiwAchIwke1QX2UhCgk-imwiHXBuZ7wHczCJWQJe8V7vd9E5LUovlUM6EY9yfBoCF7oQAvD_BwE#tabela" target="_blank">Estudonauta</a> e <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas
-- 🎓 Cursando Desenvolvimento Full Stack pela <a href="https://www.devmedia.com.br/" target="_blank">Devmedia</a>
 - 🎮 Hobbies: Futebol, Corrida, Games, leitura, música, séries, praia
 - 📫 matheusalesbr@gmail.com
 
