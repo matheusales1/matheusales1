@@ -12,8 +12,7 @@
     
    Estou cursando Análise e Desenvolvimento de Sistemas pela Unopar.
    </div>
-   
-   - 🚀 Autodidata Complementar - Cursos técnicos nas Plataformas <a href="https://www.estudonauta.com/matricula/?gclid=CjwKCAiAk--dBhABEiwAchIwke1QX2UhCgk-imwiHXBuZ7wHczCJWQJe8V7vd9E5LUovlUM6EY9yfBoCF7oQAvD_BwE#tabela" target="_blank">Estudonauta</a> e <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>
+
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas
 - 🎮 Hobbies: Futebol, Corrida, Games, leitura, música, séries, praia
 - 📫 matheusalesbr@gmail.com
@@ -26,6 +25,8 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
+         <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" alt="">
+         <img src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind&logoColor=61DAFB" alt="">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="">
      <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">      
